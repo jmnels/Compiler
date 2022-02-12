@@ -1,3 +1,3 @@
 # Compiler
 
-This was written by me for my Constuction of Language Translators course at UNF.
+I wrote this for my Constuction of Language Translators course at UNF.
